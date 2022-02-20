@@ -1,3 +1,3 @@
-# CSC431
+# CSC431 - TutorMe
 Intro to Software Engineering Project Repository
-TutorMe
+
