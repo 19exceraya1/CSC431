@@ -1,4 +1,4 @@
-# CSC431 - TutorMe
+# CSC431 - UTutorMe
 
 ## Team Members
 1. Christopher Wu - Scrum Master
