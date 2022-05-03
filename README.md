@@ -9,18 +9,14 @@
 ## UTutorMe
 UTutorMe provides students requiring academic assistance with instantaneous access to quality and qualified nearby tutors consisting of previous or current students. Students no longer have to face the overwhelming stress of finding a quality tutor last minute!
 
-## Demo
-- See the demo/ directory to view our demo codebase..
-- See the Team 1 Mockup_Final.pdf to view a mockup of our application
-
 ## Documentation
-[SAS Document](https://github.com/19exceraya1/CSC431/tree/master/SAS)
+[SAS Document](https://github.com/Chris2W/CSC431/tree/master/documentation/SAS)
 
-[SRS Document](https://github.com/19exceraya1/CSC431/tree/master/SRS)
+[SRS Document](https://github.com/Chris2W/CSC431/tree/master/documentation/SRS)
 
-[Midterm Presentation](https://github.com/19exceraya1/CSC431/blob/master/Midterm-Presentation%20(1).pdf)
+[Midterm Presentation](https://github.com/Chris2W/CSC431/blob/master/presentations/Midterm-Presentation%20(1).pdf)
 
-[Final Presentation](https://github.com/19exceraya1/CSC431/blob/master/Final-Presentation%20(1).pdf)
+[Final Presentation](https://github.com/Chris2W/CSC431/blob/master/presentations/Final-Presentation%20(1).pdf)
 
-[Demo](https://github.com/19exceraya1/CSC431/tree/master/demo/src/main/java/com/example/tutorme/demo)
+[Demo](https://github.com/Chris2W/CSC431/tree/master/code/demo/src/main/java/com/example/tutorme/demo)
 
