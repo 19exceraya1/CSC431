@@ -1,9 +1,9 @@
 # CSC431 - UTutorMe
 
 ## Team Members
-1. Christopher Wu - Scrum Master
+1. Rayan Excellent - Scrum Master
 2. Pavan Gudoor - Developer
-3. Rayan Excellent - Developer
+3. Christopher Wu - Developer
 4. Dido Fransechi - Developer
 
 ## UTutorMe
